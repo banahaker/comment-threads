@@ -7,6 +7,7 @@
 
 ## Try it
 ### Live Demo
+Check it our here: [https://lazp.tw/comment-threads/](https://lazp.tw/comment-threads/)
 ### By yourself
 
 ```bash
